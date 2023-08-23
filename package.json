@@ -1,7 +1,7 @@
 {
   "name": "table",
   "version": "0.1.0",
-  "homepage": "https://gurudeep88.guthub.io/co-browsing-sdk-live-demo",
+  "homepage": "http://gurudeep88.guthub.io/co-browsing-sdk-live-demo",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
